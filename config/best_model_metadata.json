@@ -1,0 +1,1 @@
+{"datetime": "2019-09-07 16:28:54", "experiment_id": "C8UWOpih", "trial_id": "EdqGb", "params": "{'data_dir': '/tmp/tensorflow/mnist/input_data', 'batch_size': 16, 'hidden_size': 128, 'lr': 0.1, 'momentum': 0.23084475580151287, 'epochs': 2, 'seed': 1, 'no_cuda': True, 'log_interval': 1000}", "performance": 0.985}

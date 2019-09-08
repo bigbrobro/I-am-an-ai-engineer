@@ -1,0 +1,16 @@
+local: &local
+  project: geultto
+  jwt: key.json
+  dataset: mnist
+  suffix: staging
+
+development:
+  <<: *local
+
+production:
+  project: geultto
+  jwt: key.json
+  dataset: mnist
+  suffix: prod
+
+# 이렇게 나눈 이유는 실제 서비스에서 staging / production으로 나누기 때문
