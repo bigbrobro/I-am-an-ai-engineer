@@ -1,0 +1,11 @@
+nni==v0.8-319-g19173aa4
+Pillow == 6.0.0
+google-cloud-bigquery==1.18.0
+google-cloud-core==1.0.3
+google-cloud-storage==1.18.0
+Pillow==6.0.0
+torch==1.1.0
+torchvision==0.3.0
+tensorflow==1.14.0
+pandas==0.24.2
+pandas-gbq==0.10.0

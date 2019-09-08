@@ -118,7 +118,7 @@
 - nni pytorch 실행
 
     ```
-    nictl create --config nni_config_torch.yml
+    nnictl create --config nni_config_torch.yml
     ```
     
 - nni 실행 포트 죽이기(8080일 경우)
@@ -126,6 +126,12 @@
 	```
 	kill -9 $(lsof -t -i:8080)
 	```    
+
+---
+
+### nni 실행 화면
+<img src="https://www.dropbox.com/s/7p2wivprky9r5vz/Screenshot%202019-09-08%2015.12.58.png?raw=1">
+
 
 ---
 	
